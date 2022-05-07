@@ -60,9 +60,9 @@ h1 {
 }
 
 #about-me {
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-size: cover;
 }
 
 .center-text h2 {
